@@ -20,4 +20,4 @@
 
 ## 🌐 Acesse o Projeto
 
-Você pode visualizar o projeto em: https://github.com/Gabriel-Mohr/Decodificador-de-texto.git
+Você pode visualizar o projeto em: https://descodificador-de-texto.vercel.app/
